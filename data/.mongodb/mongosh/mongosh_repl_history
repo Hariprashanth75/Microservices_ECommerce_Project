@@ -1,0 +1,7 @@
+db.getUsers()
+use admin
+db.getUsers()
+use adminoles: [{role: "root", db: "admin"}] })
+use admin
+db.getUsers()
+use admin
